@@ -93,12 +93,6 @@ export default {
             titulo: 'Licenciamiento MacOS',
             hash: 't_4_3',
           },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.4',
-            titulo: 'Sistemas operativos de red',
-            hash: 't_4_4',
-          },
         ],
       },
       {
