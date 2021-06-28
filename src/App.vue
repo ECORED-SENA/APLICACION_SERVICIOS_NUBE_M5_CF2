@@ -36,4 +36,6 @@ export default {
   &--barra-avance-open
     .curso-main-container
       padding-bottom: 80px !important
+.banner-principal__info h1, .banner-principal__info p
+    color: inherit !important
 </style>
