@@ -24,7 +24,7 @@
         figure
           img.imagen_flotante_animada(src="@/assets/curso/tema4/1.svg" data-aos="fade-right")
       .col
-        p.p-3 Windows es un sistema operativo que tiene diferentes tipos de licencia de tipo propietario. Un software propietario es aquel sobre el que rigen ciertas restricciones y prohibiciones determinados por sus propietarios entre las que se encuentran la copia, redistribución o modificación, y para hacer uso de estas acciones se debe solicitar permiso o pagar.
+        p.p-3 Windows es un sistema operativo que tiene diferentes tipos de licencia de tipo propietario. Un software propietario es aquel sobre el que rigen ciertas restricciones y prohibiciones determinados por sus propietarios entre las que se encuentran la copia y la redistribución o modificación, y para hacer uso de estas acciones se debe solicitar permiso o pagar.
 
     p.mt-5 #[strong En el caso de Microsoft poseen cuatro tipos de licencias básicas (Sistemas, 2016) que se pueden adquirir, estas son:]
 
@@ -49,9 +49,9 @@
           h5.text-center.mt-4 VOLUMEN
           p.mt-5 La licencia Microsoft de software por volumen permite ejecutar el software en múltiples ordenadores dentro de una misma empresa, de forma sencilla y accesible por múltiples usuarios.
 
-    p.mt-4 Es importante mencionar que por cada tipo de licencia existen ya diferentes versiones de sistema operativo no solo desde el lado del cliente si no del lado del servidor como se mencionó con anterioridad por ejemplo se encuentran licencias de tipo Home, PRO, pro for Workstation, Professional, entre otros.
+    p.mt-4 Es importante mencionar que por cada tipo de licencia existen ya diferentes versiones de sistema operativo, no solo desde el lado del cliente si no del lado del servidor como se mencionó con anterioridad, por ejemplo, se encuentran licencias de tipo Home, PRO, pro for Workstation, Professional, entre otros.
 
-    p.mt-3 #[strong En el caso de las licencias de tipo servidor existen otras variables que se deben considerar a nivel del licenciamiento entre otras las siguientes:]
+    p.mt-3 #[strong En el caso de las licencias de tipo servidor existen otras variables que se deben considerar a nivel del licenciamiento, entre otras las siguientes:]
 
     ul.lista-ul.mt-5
       li(data-aos="fade-up" )
@@ -80,7 +80,7 @@
         figure
           img.imagen_flotante_animada(src="@/assets/curso/tema4/2.svg" data-aos="fade-right")
       .col
-        p.p-1 Linux es un sistema operativo diseñado y desarrollado por gran cantidad de desarrolladores en el mundo y se distribuye bajo la Licencia Pública General GNU (GPL), lo que garantiza que los usuarios tengan la libertad de usarlo, distribuirlo y/o modificarlo. Al ser desarrollado por comunidad de personas alrededor del mundo quienes hacen sus aportes al crecimiento y evolución del sistema operativo ha permitido múltiples  variables de Linux lo que ha llevado a la generación de varios tipos de licencia como lo son:
+        p.p-1 Linux es un sistema operativo diseñado y desarrollado por gran cantidad de desarrolladores en el mundo y se distribuye bajo la Licencia Pública General GNU (GPL), lo que garantiza que los usuarios tengan la libertad de usarlo, distribuirlo y/o modificarlo. Al ser desarrollado por comunidad de personas alrededor del mundo, quienes hacen sus aportes al crecimiento y evolución del sistema operativo, ha permitido múltiples variables de Linux, lo que ha llevado a la generación de varios tipos de licencia, como lo son:
 
     .row.mt-5
       .col-md-6.mb-4
@@ -103,7 +103,7 @@
           h5.text-center.mt-4 X.org
           p.mt-5 La licencia Microsoft de software por volumen permite ejecutar el software en múltiples ordenadores dentro de una misma empresa, de forma sencilla y accesible por múltiples usuarios
 
-    p.mt-4 Si bien estas son tan solo algunas pueden existir múltiples variables de los licenciamientos que pueden obtenerse al adquirir licencias de tipo Linux, por lo que se recomienda al aprendiz profundizar en la lectura de esta temática a fin de lograr tener una visión más amplia de todo el tema del licenciamiento de software en general.
+    p.mt-4 Si bien estas licencias son tan solo algunas, pueden existir múltiples variables de los licenciamientos que pueden obtenerse al adquirir licencias de tipo Linux, por lo que se recomienda al aprendiz profundizar en la lectura de esta temática a fin de lograr tener una visión más amplia de todo el tema del licenciamiento de software en general.
 
     br
     #t_4_3.titulo-segundo.mt-5
