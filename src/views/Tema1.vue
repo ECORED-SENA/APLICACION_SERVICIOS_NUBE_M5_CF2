@@ -7,7 +7,7 @@
         span 1
       h1 Definición y generalidades de sistemas cliente/servidor
 
-    p.mt-3 El sistema cliente/servidor es un modelo de aplicación distribuida en el que las tareas se reparten entre los proveedores de recursos o servicios, llamados servidores, y los demandantes, llamados clientes. Las aplicaciones clientes realizan peticiones a una o varias aplicaciones servidores, que deben encontrarse en ejecución para atender dichas demandas. Marini, E. (2012).
+    p.mt-3 El sistema cliente/servidor es un modelo de aplicación distribuida, en el que las tareas se reparten entre los proveedores de recursos o servicios, llamados servidores, y los demandantes, llamados clientes. Las aplicaciones clientes realizan peticiones a una o varias aplicaciones servidores, que deben encontrarse en ejecución para atender dichas demandas. Marini, E. (2012).
 
     p.mt-3 #[strong Cuando se habla de sistemas cliente/servidor desde el punto de vista tecnológico o informático se puede especificar claramente dos componentes lo cuales son:]
 

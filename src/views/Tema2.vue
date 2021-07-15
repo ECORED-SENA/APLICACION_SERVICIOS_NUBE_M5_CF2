@@ -62,7 +62,7 @@
         figure
           img.caja_flotante_rosada(src="@/assets/curso/tema2/7.svg")
       .col
-        p Una máquina cliente como un servidor se refieren a computadoras que son usadas para diferentes propósitos. El cliente es un computador pequeño con una estructura igual a la que se tiene en oficinas u hogares, y accede a un servidor o a los servicios que este ofrece a través de Internet o una red interna (LAN). Un claro ejemplo a este caso es la forma en que trabaja una empresa con diferentes computadores donde cada uno de ellos se conectan a un servidor para poder obtener archivos de una base de datos o servicios ya sea correos electrónicos o aplicaciones.
+        p Una máquina cliente, como un servidor, se refieren a computadoras que son usadas para diferentes propósitos. El cliente es un computador pequeño con una estructura igual a la que se tiene en oficinas u hogares, y accede a un servidor o a los servicios que este ofrece a través de Internet o una red interna (LAN). Un claro ejemplo a este caso es la forma en que trabaja una empresa con diferentes computadores donde cada uno de ellos se conectan a un servidor para poder obtener archivos de una base de datos o servicios ya sea correos electrónicos o aplicaciones.
 
         p.mt-3 #[strong El servidor al igual que el cliente], es una computadora, pero con la diferencia de que tiene una gran capacidad que le permite almacenar gran cantidad de diversos archivos, o correr varias aplicaciones en simultáneo para así nosotros los clientes poder acceder los servicios. 
 

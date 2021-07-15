@@ -94,14 +94,14 @@
           p.mt-5 La licencia BSD permite mantener la protección de derechos de autor para requerir la atribución de autoría en trabajo derivados y para la renuncia de la garantía, lo anterior permite la libre redistribución y modificación y también permite el uso del código fuente en software no libre, Es decir es una licencia de baja restricción para software de código abierto que no impone requisitos de redistribución (Open source initiative, 2021).
 
       .col-md-6.mb-4
-        .p-4.caja_escalada_hover.caja_flotante_azul(style="background-color:#A9EBF4;height:100%;")
+        .p-4.caja_escalada_hover.caja_flotante_azul(style="background-color:#DDFBFF;height:100%;")
           h5.text-center.mt-4 DFSG
           p.mt-5 Se le conoce como Debian Free Software Guideline al contrato realizado entre la comunidad de usuarios de software libre y Debian, Este tipo de licencia contiene criterios para la distribución y exigencias referentes a la publicación del código fuente. entre las exigencias podemos encontrar: (i) distribución 100% libre, (ii) código fuente debe ser incluido en el proceso de redistribución para contribuir a la comunidad de software libre, (iii) La licencia permite modificación y trabajo derivado pero estos se deben redistribuir con la licencia original, (iv) la licencia puede restringir de distribución del código fuente en forma modificada sólo si la licencia permite distribución de parches para modificar el código fuente original del programa en el momento de compilarlo, (v) no debe existir discriminación sobre personas o grupos de personas ni sobre el uso que le den al software, (vi) los derechos otorgados no dependen  del sitio de distribución y (vii) la licencia no puede afectar otros programas que se distribuyan junto con el programa bajo esta licencia (Debian , 2021).
 
       .col-md-6.mb-4
-        .p-4.caja_escalada_hover.caja_flotante_azul(style="background-color:#DDFBFF;height:100%;")
+        .p-4.caja_escalada_hover.caja_flotante_azul(style="background-color:#A9EBF4;height:100%;")
           h5.text-center.mt-4 X.org
-          p.mt-5 La licencia Microsoft de software por volumen permite ejecutar el software en múltiples ordenadores dentro de una misma empresa, de forma sencilla y accesible por múltiples usuarios
+          p.mt-5 Proyecto desarrollado por la fundación X.org en conjunto freedesktop.org sin ánimo de lucro y proporciona implementaciones de código abierto del sistema X Windows para fines educativos.
 
     p.mt-4 Si bien estas licencias son tan solo algunas, pueden existir múltiples variables de los licenciamientos que pueden obtenerse al adquirir licencias de tipo Linux, por lo que se recomienda al aprendiz profundizar en la lectura de esta temática a fin de lograr tener una visión más amplia de todo el tema del licenciamiento de software en general.
 

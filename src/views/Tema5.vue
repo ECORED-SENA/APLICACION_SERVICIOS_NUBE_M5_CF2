@@ -64,7 +64,7 @@
                   figure
                     img(src='@/assets/curso/tema5/6.svg', alt='Avatar')
 
-              p #[strong Directorio:] Servicio de directorio que permiten administrar y gestionar los recursos de la red como usuarios, autenticación, permisos, roles y acceso a los recursos compartidos.
+              p #[strong Directorio:] Servicio de directorio que permite administrar y gestionar los recursos de la red como usuarios, autenticación, permisos, roles y acceso a los recursos compartidos.
 
     p.mt-5 Los servicios para implementar son de suma importancia al momento de planear el despliegue o implantación de un sistema o aplicación, por lo que deben ser parte fundamental en el levantamiento de los requerimientos al inicio de todo proyecto de desarrollo de software o implementación de servicios previos durante el desarrollo, pruebas y puesta en producción de servicios y aplicaciones.
 
