@@ -289,7 +289,7 @@
 
           AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
             .row(titulo="Gratis:")
-              p Linux es un sistema operativo gratuito y existen en el mercado gran cantidad de distribuciones enfocadas a diferentes tipos de usuarios por lo que es fácil encontrar una solución que se acome de cada una de las necesidades.
+              p Linux es un sistema operativo gratuito y existen en el mercado gran cantidad de distribuciones enfocadas a diferentes tipos de usuarios por lo que es fácil encontrar una solución que se acomode a cada una de las necesidades.
 
             .row(titulo="Código abierto:") 
               p El código fuente está liberado para que cualquiera pueda desarrollar nuevas capacidades y adaptarlo a sus propias necesidades.

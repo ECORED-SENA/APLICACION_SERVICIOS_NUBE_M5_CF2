@@ -36,7 +36,7 @@
 
       .col-md-3.mb-4
         .p-4.caja_escalada_hover.caja_flotante_azul(style="background-color:#DDFBFF;height:100%;")
-          h5.text-center.mt-4 RITAIL
+          h5.text-center.mt-4 RETAIL
           p.mt-5 Son licencias que se adquieren ya sea físicas en un medio como CD o DVD o en forma digital descargando un archivo ISO, se adquieren para el usuario final en tiendas de computadoras o en sitios web, tienen como característica fundamental que puede ser utilizada e instalada en cualquier equipo sin problema, es decir que no está condicionada a un solo equipo como el caso de la OEM.
 
       .col-md-3.mb-4
